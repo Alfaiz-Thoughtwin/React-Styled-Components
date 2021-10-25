@@ -1,10 +1,11 @@
 import React from 'react';
+import { Header } from './Components';
 
 
 const App = () => {
   return (
     <>
-      <h1>React Styled Components</h1>
+      <Header />
     </>
   );
 }
